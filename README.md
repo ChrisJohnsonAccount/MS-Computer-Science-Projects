@@ -1,6 +1,6 @@
 # MS Computer Science Projects
 
-A collection of graduate coursework projects spanning cloud computing, machine learning, and data science, completed as part of my M.S. in Computer Science (University of Illinois Urbana-Champaign) and UCLA Extension data science coursework.
+A collection of graduate coursework projects spanning cloud computing, machine learning, and data science, completed from 2018 to 2021 as part of my M.S. in Computer Science (University of Illinois Urbana-Champaign) and UCLA Extension data science coursework.
 
 ## Projects
 
